@@ -1,0 +1,96 @@
+task_id: T000051
+generated_at: '2026-04-16T16:54:18Z'
+selection_policy: manual_curated_open_access_high_citation
+citation_threshold: 100
+papers:
+- id: W2106602535
+  title: Blockade of Central Cholinergic Receptors Impairs New Learning and Increases
+    Proactive Interference in a Word Paired-Associate Memory Task.
+  authors:
+  - Alireza Atri
+  - Seth Sherman
+  - Kenneth A. Norman
+  - Brenda A. Kirchhoff
+  - Marlene M. Nicolas
+  - Michael D. Greicius
+  - Steven C. Cramer
+  - Hans C. Breiter
+  - Michael E. Hasselmo
+  - Chantal E. Stern
+  year: 2004
+  journal: Behavioral Neuroscience
+  doi_or_url: https://doi.org/10.1037/0735-7044.118.1.223
+  citation_count: 165
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - task_workflow
+  - timing_parameters
+  - stimulus_logic
+  parameter_bindings: {}
+  notes: ''
+- id: W2040178194
+  title: 'Verbal paired-associate learning by APOE genotype in non-demented older
+    adults: fMRI evidence of a right hemispheric compensatory response'
+  authors:
+  - S. Duke Han
+  - Wes S. Houston
+  - Amy J. Jak
+  - Lisa T. Eyler
+  - Bonnie J. Nagel
+  - Adam Fleisher
+  - Gregory G. Brown
+  - Jody Corey-Bloom
+  - David P. Salmon
+  - Leon J. Thal
+  - Mark W. Bondi
+  year: 2006
+  journal: Neurobiology of Aging
+  doi_or_url: https://doi.org/10.1016/j.neurobiolaging.2005.12.013
+  citation_count: 152
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - task_workflow
+  - timing_parameters
+  - stimulus_logic
+  parameter_bindings: {}
+  notes: ''
+- id: W2024910015
+  title: Differential roles of human striatum and amygdala in associative learning
+  authors:
+  - Jian Li
+  - Daniela Schiller
+  - Geoffrey Schoenbaum
+  - Elizabeth A. Phelps
+  - Nathaniel D. Daw
+  year: 2011
+  journal: Nature Neuroscience
+  doi_or_url: https://doi.org/10.1038/nn.2904
+  citation_count: 384
+  is_high_impact: true
+  open_access: true
+  used_for:
+  - task_workflow
+  - timing_parameters
+  parameter_bindings: {}
+  notes: ''
+- id: W2120104877
+  title: Paired-associate learning, phoneme awareness, and learning to read
+  authors:
+  - Charles Hulme
+  - Kristina Goetz
+  - Debbie Gooch
+  - John W. Adams
+  - Margaret J. Snowling
+  year: 2006
+  journal: Journal of Experimental Child Psychology
+  doi_or_url: https://doi.org/10.1016/j.jecp.2006.09.002
+  citation_count: 167
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - task_workflow
+  - stimulus_logic
+  parameter_bindings: {}
+  notes: ''

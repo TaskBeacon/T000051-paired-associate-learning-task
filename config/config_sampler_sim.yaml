@@ -1,0 +1,400 @@
+# ============================================================================
+# Sampler simulation config
+# - Used by: python main.py sim --config config/config_sampler_sim.yaml
+# - Scope: sampler simulation only (no qa section in this file)
+# - Profile: short smoke run for sampler integration checks
+# ============================================================================
+
+# === Subject Form ===========================================================
+subinfo_fields:
+  - name: subject_id
+    type: int
+    constraints:
+      min: 101
+      max: 999
+      digits: 3
+
+subinfo_mapping:
+  subject_id: Subject ID (3 digits)
+  Participant Information: Participant Information
+  registration_failed: Registration failed
+  registration_successful: Registration successful
+  invalid_input: "Invalid input for {field}"
+
+
+# === Display / Window =======================================================
+window:
+  size: [1280, 720]
+  units: pix
+  screen: 0
+  bg_color: black
+  fullscreen: false
+  monitor_width_cm: 35.5
+  monitor_distance_cm: 60
+
+
+# === Task ==================================================================
+task:
+  task_name: Paired-Associate Learning Task
+  save_path: ./outputs/sim_sampler
+  total_blocks: 3
+  total_trials: 24
+  trial_per_block: 8
+  conditions:
+    - practice
+    - scored_1
+    - scored_2
+  condition_weights: null
+  key_list: [space, r, u, "1", "2", "3", "4"]
+  response_keys: ["r", "u", "1", "2", "3", "4"]
+  study_response_keys: ["r", "u"]
+  test_response_keys: ["1", "2", "3", "4"]
+  related_key: r
+  unrelated_key: u
+  continue_key: space
+  practice_pairs: 4
+  scored_pairs_per_block: 4
+  pairs_per_block: 4
+  fixation_duration: 0.25
+  study_duration: 1.0
+  study_iti_duration: 0.15
+  test_duration: 3.0
+  test_iti_duration: 0.15
+  practice_feedback_duration: 0.4
+  seed_mode: same_across_sub
+  overall_seed: 51051
+  delta: 0.0
+  language: English
+  voice_name: en-US-AriaNeural
+  voice_enabled: false
+  input_mode: keyboard
+  hide_cursor: true
+  force_quit_enabled: true
+  force_quit_shortcut: ctrl+q
+  enable_logging: true
+
+
+# === Timing =================================================================
+timing:
+  post_delay_ms: 1
+
+
+# === Stimuli ================================================================
+stimuli:
+  instruction_text:
+    type: text
+    text: |
+      Paired-Associate Learning Task
+
+      This QA run includes one practice list and two scored lists.
+      Each list contains 4 word pairs.
+
+      During study, decide whether each pair is related or unrelated by meaning.
+      Press R for related and U for unrelated.
+      After study, choose which word was paired with the cue word.
+
+      Use 1, 2, 3, or 4 to choose the test answer.
+      Press SPACE to begin.
+    font: Arial
+    color: white
+    height: 26
+    wrapWidth: 1060
+    pos: [0, 12]
+
+  block_intro_text:
+    type: text
+    text: |
+      {block_label}
+
+      Study {pair_count} word pairs.
+      Then complete {pair_count} recognition choices.
+
+      Study key: R = related, U = unrelated
+      Test keys: 1, 2, 3, 4
+
+      Press SPACE to start this list.
+    font: Arial
+    color: white
+    height: 28
+    wrapWidth: 1000
+    pos: [0, 0]
+
+  fixation:
+    type: text
+    text: "+"
+    font: Arial
+    color: white
+    height: 48
+    pos: [0, 0]
+
+  study_cue_word:
+    type: text
+    text: "{word}"
+    font: Arial
+    color: white
+    height: 38
+    wrapWidth: 280
+    pos: [-250, 60]
+
+  study_associate_word:
+    type: text
+    text: "{word}"
+    font: Arial
+    color: white
+    height: 38
+    wrapWidth: 280
+    pos: [250, 60]
+
+  study_prompt:
+    type: text
+    text: "R = related    U = unrelated"
+    font: Arial
+    color: white
+    height: 24
+    wrapWidth: 1000
+    pos: [0, -250]
+
+  test_cue_word:
+    type: text
+    text: "{word}"
+    font: Arial
+    color: white
+    height: 42
+    wrapWidth: 300
+    pos: [0, 250]
+
+  test_option_1:
+    type: text
+    text: "{option_word}"
+    font: Arial
+    color: white
+    height: 32
+    wrapWidth: 240
+    pos: [-280, 80]
+
+  test_option_2:
+    type: text
+    text: "{option_word}"
+    font: Arial
+    color: white
+    height: 32
+    wrapWidth: 240
+    pos: [280, 80]
+
+  test_option_3:
+    type: text
+    text: "{option_word}"
+    font: Arial
+    color: white
+    height: 32
+    wrapWidth: 240
+    pos: [-280, -80]
+
+  test_option_4:
+    type: text
+    text: "{option_word}"
+    font: Arial
+    color: white
+    height: 32
+    wrapWidth: 240
+    pos: [280, -80]
+
+  test_prompt:
+    type: text
+    text: "Choose the word that was paired with the cue word. Use 1, 2, 3, or 4."
+    font: Arial
+    color: white
+    height: 24
+    wrapWidth: 1000
+    pos: [0, -300]
+
+  practice_study_feedback_correct:
+    type: text
+    text: |
+      Study answer correct
+      Pair relation: {correct_relation}
+    font: Arial
+    color: white
+    height: 30
+    wrapWidth: 760
+    pos: [0, 0]
+
+  practice_study_feedback_incorrect:
+    type: text
+    text: |
+      Study answer incorrect
+      Pair relation: {correct_relation}
+    font: Arial
+    color: white
+    height: 30
+    wrapWidth: 760
+    pos: [0, 0]
+
+  practice_study_feedback_timeout:
+    type: text
+    text: |
+      Study response timed out
+      Pair relation: {correct_relation}
+    font: Arial
+    color: white
+    height: 30
+    wrapWidth: 760
+    pos: [0, 0]
+
+  practice_test_feedback_correct:
+    type: text
+    text: |
+      Test answer correct
+      Paired word: {correct_word}
+    font: Arial
+    color: white
+    height: 30
+    wrapWidth: 760
+    pos: [0, 0]
+
+  practice_test_feedback_incorrect:
+    type: text
+    text: |
+      Test answer incorrect
+      Correct word: {correct_word}
+    font: Arial
+    color: white
+    height: 30
+    wrapWidth: 760
+    pos: [0, 0]
+
+  practice_test_feedback_timeout:
+    type: text
+    text: |
+      Test response timed out
+      Correct word: {correct_word}
+    font: Arial
+    color: white
+    height: 30
+    wrapWidth: 760
+    pos: [0, 0]
+
+  practice_break_text:
+    type: text
+    text: |
+      Practice list complete
+
+      Study accuracy: {study_accuracy:.1%}
+      Test accuracy: {test_accuracy:.1%}
+      Mean test RT: {mean_test_rt_ms:.0f} ms
+      Timeouts: {timeout_count}
+
+      Press SPACE to continue.
+    font: Arial
+    color: white
+    height: 26
+    wrapWidth: 1000
+    pos: [0, 0]
+
+  block_break_text:
+    type: text
+    text: |
+      List {block_num}/{total_blocks} complete
+
+      Study accuracy: {study_accuracy:.1%}
+      Test accuracy: {test_accuracy:.1%}
+      Mean test RT: {mean_test_rt_ms:.0f} ms
+      Timeouts: {timeout_count}
+
+      Press SPACE to continue.
+    font: Arial
+    color: white
+    height: 26
+    wrapWidth: 1000
+    pos: [0, 0]
+
+  good_bye_text:
+    type: text
+    text: |
+      Task complete
+
+      Study accuracy: {study_accuracy:.1%}
+      Test accuracy: {test_accuracy:.1%}
+      Mean test RT: {mean_test_rt_ms:.0f} ms
+      Timeouts: {timeout_count}
+
+      Press SPACE to exit.
+    font: Arial
+    color: white
+    height: 28
+    wrapWidth: 1000
+    pos: [0, 0]
+
+
+# === Triggers ===============================================================
+triggers:
+  map:
+    exp_onset: 1
+    exp_end: 2
+    block_onset: 10
+    block_end: 11
+    instruction_onset: 12
+    study_fixation_onset: 20
+    study_onset: 21
+    response_r: 31
+    response_u: 32
+    study_timeout: 33
+    practice_study_feedback_onset: 34
+    study_iti_onset: 35
+    test_fixation_onset: 40
+    test_onset: 41
+    response_1: 51
+    response_2: 52
+    response_3: 53
+    response_4: 54
+    response_timeout: 55
+    practice_test_feedback_onset: 56
+    test_iti_onset: 57
+    block_break_onset: 60
+    good_bye_onset: 61
+
+  driver:
+    type: serial_url
+    url: loop://
+    baudrate: 115200
+
+  timing:
+    post_delay_ms: 1
+
+  policy:
+    strict: false
+
+
+sim:
+  output_dir: outputs/sim_sampler
+  seed: 51051
+  participant_id: sim001
+  session_id: sub-sim001_task-paired_associate_learning_task_seed51051_sampler
+  log_path: outputs/sim_sampler/sub-sim001_task-paired_associate_learning_task_seed51051_sampler_sim_events.jsonl
+  policy: warn
+  default_rt_s: 0.2
+  clamp_rt: false
+  responder:
+    type: responders.task_sampler:TaskSamplerResponder
+    kwargs:
+      key: space
+      study_hit_rate: 0.88
+      test_hit_rate: 0.78
+      study_timeout_rate: 0.05
+      test_timeout_rate: 0.08
+      study_rt_mean_s: 0.82
+      test_rt_mean_s: 1.32
+      rt_sd_s: 0.28
+      rt_min_s: 0.18
+      practice_bonus: 0.06
+      related_bonus: 0.03
+      unrelated_penalty: 0.02
+      late_block_bonus: 0.03
+
+  driver:
+    type: serial_url
+    url: loop://
+    baudrate: 115200
+
+  timing:
+    post_delay_ms: 1

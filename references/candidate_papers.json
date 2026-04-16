@@ -1,0 +1,2222 @@
+[
+  {
+    "id": "W2493916176",
+    "title": "Enriching Word Vectors with Subword Information",
+    "authors": [
+      "Piotr Bojanowski",
+      "\u00c9douard Grave",
+      "Armand Joulin",
+      "Tom\u00e1\u0161 Mikolov"
+    ],
+    "year": 2017,
+    "journal": "Transactions of the Association for Computational Linguistics",
+    "doi_or_url": "https://doi.org/10.1162/tacl_a_00051",
+    "citation_count": 9684,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2107726111",
+    "title": "Reinforcement Learning: A Survey",
+    "authors": [
+      "Leslie Pack Kaelbling",
+      "Michael L. Littman",
+      "Andrew Moore"
+    ],
+    "year": 1996,
+    "journal": "Journal of Artificial Intelligence Research",
+    "doi_or_url": "https://doi.org/10.1613/jair.301",
+    "citation_count": 8757,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2102201073",
+    "title": "Multivariate Adaptive Regression Splines",
+    "authors": [
+      "Jerome H. Friedman"
+    ],
+    "year": 1991,
+    "journal": "The Annals of Statistics",
+    "doi_or_url": "https://doi.org/10.1214/aos/1176347963",
+    "citation_count": 8052,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3140854437",
+    "title": "Review of deep learning: concepts, CNN architectures, challenges, applications, future directions",
+    "authors": [
+      "Laith Alzubaidi",
+      "Jinglan Zhang",
+      "Amjad J. Humaidi",
+      "Ayad Q. Al-Dujaili",
+      "Ye Duan",
+      "Omran Al-Shamma",
+      "Jos\u00e9 Santamar\u00eda",
+      "Mohammed A. Fadhel",
+      "Muthana Al\u2010Amidie",
+      "Laith Farhan"
+    ],
+    "year": 2021,
+    "journal": "Journal Of Big Data",
+    "doi_or_url": "https://doi.org/10.1186/s40537-021-00444-8",
+    "citation_count": 7272,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2166667242",
+    "title": "The magical number 4 in short-term memory: A reconsideration of mental storage capacity",
+    "authors": [
+      "Nelson Cowan"
+    ],
+    "year": 2001,
+    "journal": "Behavioral and Brain Sciences",
+    "doi_or_url": "https://doi.org/10.1017/s0140525x01003922",
+    "citation_count": 6729,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2121005211",
+    "title": "Economics and Identity*",
+    "authors": [
+      "George A. Akerlof",
+      "Rachel Kranton"
+    ],
+    "year": 2000,
+    "journal": "The Quarterly Journal of Economics",
+    "doi_or_url": "https://doi.org/10.1162/003355300554881",
+    "citation_count": 5541,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2128030851",
+    "title": "Sensitivity of revised diagnostic criteria for the behavioural variant of frontotemporal dementia",
+    "authors": [
+      "Katya Rascovsky",
+      "John R. Hodges",
+      "David S. Knopman",
+      "Mario F. Mendez",
+      "Joel H. Kramer",
+      "John Neuhaus",
+      "John C. van Swieten",
+      "Harro Seelaar",
+      "Elise G.P. Dopper",
+      "Chiadi U. Onyike",
+      "Argye E. Hillis",
+      "Keith A. Josephs"
+    ],
+    "year": 2011,
+    "journal": "Brain",
+    "doi_or_url": "https://doi.org/10.1093/brain/awr179",
+    "citation_count": 5184,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2277195237",
+    "title": "Visual Genome: Connecting Language and Vision Using Crowdsourced Dense Image Annotations",
+    "authors": [
+      "Ranjay Krishna",
+      "Yuke Zhu",
+      "Oliver Groth",
+      "Justin Johnson",
+      "Kenji Hata",
+      "Joshua Kravitz",
+      "Stephanie Chen",
+      "Yannis Kalantidis",
+      "Li-Jia Li",
+      "David A. Shamma",
+      "Michael S. Bernstein",
+      "Li Fei-Fei"
+    ],
+    "year": 2017,
+    "journal": "International Journal of Computer Vision",
+    "doi_or_url": "https://doi.org/10.1007/s11263-016-0981-7",
+    "citation_count": 5103,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2077109464",
+    "title": "Validation of the theoretical domains framework for use in behaviour change and implementation research",
+    "authors": [
+      "James E. Cane",
+      "Denise O\u2019Connor",
+      "Susan Michie"
+    ],
+    "year": 2012,
+    "journal": "Implementation Science",
+    "doi_or_url": "https://doi.org/10.1186/1748-5908-7-37",
+    "citation_count": 4912,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2995022099",
+    "title": "Advances and Open Problems in Federated Learning",
+    "authors": [
+      "Peter Kairouz",
+      "H. Brendan McMahan",
+      "Brendan Avent",
+      "Aur\u00e9lien Bellet",
+      "Mehdi Bennis",
+      "Arjun Nitin Bhagoji",
+      "Kallista Bonawitz",
+      "Zachary Charles",
+      "Graham Cormode",
+      "Rachel Cummings",
+      "Rafael G. L. D\u2019Oliveira",
+      "Hubert Eichner"
+    ],
+    "year": 2020,
+    "journal": "Foundations and Trends\u00ae in Machine Learning",
+    "doi_or_url": "https://doi.org/10.1561/2200000083",
+    "citation_count": 4424,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2951617899",
+    "title": "Local-Global Parcellation of the Human Cerebral Cortex from Intrinsic Functional Connectivity MRI",
+    "authors": [
+      "Alexander Schaefer",
+      "Ru Kong",
+      "Evan M. Gordon",
+      "Timothy O. Laumann",
+      "Xi\u2010Nian Zuo",
+      "Avram J. Holmes",
+      "Simon B. Eickhoff",
+      "B.T. Thomas Yeo"
+    ],
+    "year": 2017,
+    "journal": "Cerebral Cortex",
+    "doi_or_url": "https://doi.org/10.1093/cercor/bhx179",
+    "citation_count": 3653,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2088794999",
+    "title": "Gradient boosting machines, a tutorial",
+    "authors": [
+      "Alexey Natekin",
+      "Alois Knoll"
+    ],
+    "year": 2013,
+    "journal": "Frontiers in Neurorobotics",
+    "doi_or_url": "https://doi.org/10.3389/fnbot.2013.00021",
+    "citation_count": 3627,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2100235918",
+    "title": "A Survey of Collaborative Filtering Techniques",
+    "authors": [
+      "Xiaoyuan Su",
+      "Taghi M. Khoshgoftaar"
+    ],
+    "year": 2009,
+    "journal": "Advances in Artificial Intelligence",
+    "doi_or_url": "https://doi.org/10.1155/2009/421425",
+    "citation_count": 3592,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2168448159",
+    "title": "The Kuramoto model: A simple paradigm for synchronization phenomena",
+    "authors": [
+      "Juan A. Acebr\u00f3n",
+      "L. L. Bonilla",
+      "C. J. P\u00e9rez Vicente",
+      "F\u00e9lix Ritort",
+      "Renato Spigler"
+    ],
+    "year": 2005,
+    "journal": "Reviews of Modern Physics",
+    "doi_or_url": "https://doi.org/10.1103/revmodphys.77.137",
+    "citation_count": 3463,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1984748091",
+    "title": "Developing the theory of formative assessment",
+    "authors": [
+      "Paul Black",
+      "Dylan Wiliam"
+    ],
+    "year": 2009,
+    "journal": "Educational Assessment Evaluation and Accountability",
+    "doi_or_url": "https://doi.org/10.1007/s11092-008-9068-5",
+    "citation_count": 3053,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4324309277",
+    "title": "2023 Alzheimer's disease facts and figures",
+    "authors": [
+      "V Villemagne",
+      "S Burnham",
+      "P Bourgeat",
+      "E Reiman",
+      "Y Quiroz",
+      "A Fleisher",
+      "C Jack",
+      "V Lowe",
+      "S Weigand",
+      "R Bateman",
+      "C Xiong",
+      "T Benzinger"
+    ],
+    "year": 2023,
+    "journal": "Alzheimer s & Dementia",
+    "doi_or_url": "https://doi.org/10.1002/alz.13016",
+    "citation_count": 2981,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1662133657",
+    "title": "From Frequency to Meaning: Vector Space Models of Semantics",
+    "authors": [
+      "Peter D. Turney",
+      "Patrick Pantel"
+    ],
+    "year": 2010,
+    "journal": "Journal of Artificial Intelligence Research",
+    "doi_or_url": "https://doi.org/10.1613/jair.2934",
+    "citation_count": 2864,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4384071683",
+    "title": "Large language models encode clinical knowledge",
+    "authors": [
+      "Karan Singhal",
+      "Shekoofeh Azizi",
+      "Tao Tu",
+      "S. Sara Mahdavi",
+      "Jason Lee",
+      "Hyung Won Chung",
+      "Nathan Scales",
+      "Ajay Kumar Tanwani",
+      "Heather Cole-Lewis",
+      "Stephen Pfohl",
+      "Perry W. Payne",
+      "Martin Seneviratne"
+    ],
+    "year": 2023,
+    "journal": "Nature",
+    "doi_or_url": "https://doi.org/10.1038/s41586-023-06291-2",
+    "citation_count": 2863,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2075854425",
+    "title": "The part-time parliament",
+    "authors": [
+      "Leslie Lamport"
+    ],
+    "year": 1998,
+    "journal": "ACM Transactions on Computer Systems",
+    "doi_or_url": "https://doi.org/10.1145/279227.279229",
+    "citation_count": 2697,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2000196122",
+    "title": "The myth of language universals: Language diversity and its importance for cognitive science",
+    "authors": [
+      "Nicholas Evans",
+      "Stephen C. Levinson"
+    ],
+    "year": 2009,
+    "journal": "Behavioral and Brain Sciences",
+    "doi_or_url": "https://doi.org/10.1017/s0140525x0999094x",
+    "citation_count": 2612,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2150102617",
+    "title": "RCV1: A New Benchmark Collection for Text Categorization Research",
+    "authors": [
+      "David Lewis",
+      "Yiming Yang",
+      "Tony Rose",
+      "Fan Li"
+    ],
+    "year": 2004,
+    "journal": "Goldsmiths (University of London)",
+    "doi_or_url": "https://doi.org/10.5555/1005332.1005345",
+    "citation_count": 2604,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2017146523",
+    "title": "A practical solution to the pervasive problems ofp values",
+    "authors": [
+      "Eric\u2010Jan Wagenmakers"
+    ],
+    "year": 2007,
+    "journal": "Psychonomic Bulletin & Review",
+    "doi_or_url": "https://doi.org/10.3758/bf03194105",
+    "citation_count": 2581,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2066525901",
+    "title": "Rethinking Feelings: An fMRI Study of the Cognitive Regulation of Emotion",
+    "authors": [
+      "Kevin N. Ochsner",
+      "Silvia A. Bunge",
+      "James J. Gross",
+      "John D. E. Gabrieli"
+    ],
+    "year": 2002,
+    "journal": "Journal of Cognitive Neuroscience",
+    "doi_or_url": "https://doi.org/10.1162/089892902760807212",
+    "citation_count": 2522,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2973119841",
+    "title": "Machine Learning for Fluid Mechanics",
+    "authors": [
+      "Steven L. Brunton",
+      "Bernd R. Noack",
+      "Petros Koumoutsakos"
+    ],
+    "year": 2019,
+    "journal": "Annual Review of Fluid Mechanics",
+    "doi_or_url": "https://doi.org/10.1146/annurev-fluid-010719-060214",
+    "citation_count": 2483,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3153990350",
+    "title": "Machine learning and deep learning",
+    "authors": [
+      "Christian Janiesch",
+      "Patrick Zschech",
+      "Kai Heinrich"
+    ],
+    "year": 2021,
+    "journal": "Electronic Markets",
+    "doi_or_url": "https://doi.org/10.1007/s12525-021-00475-2",
+    "citation_count": 2366,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2167293745",
+    "title": "Grounding language in action",
+    "authors": [
+      "Arthur M. Glenberg",
+      "Michael P. Kaschak"
+    ],
+    "year": 2002,
+    "journal": "Psychonomic Bulletin & Review",
+    "doi_or_url": "https://doi.org/10.3758/bf03196313",
+    "citation_count": 2323,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2053463056",
+    "title": "BoosTexter: A Boosting-based System for Text Categorization",
+    "authors": [
+      "Robert E. Schapire",
+      "Yoram Singer"
+    ],
+    "year": 2000,
+    "journal": "Machine Learning",
+    "doi_or_url": "https://doi.org/10.1023/a:1007649029923",
+    "citation_count": 2187,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2144421443",
+    "title": "The Common Neural Basis of Autobiographical Memory, Prospection, Navigation, Theory of Mind, and the Default Mode: A Quantitative Meta-analysis",
+    "authors": [
+      "R. Nathan Spreng",
+      "Raymond A. Mar",
+      "Alice S. N. Kim"
+    ],
+    "year": 2008,
+    "journal": "Journal of Cognitive Neuroscience",
+    "doi_or_url": "https://doi.org/10.1162/jocn.2008.21029",
+    "citation_count": 2187,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2120409145",
+    "title": "FREQUENCY EFFECTS IN LANGUAGE PROCESSING",
+    "authors": [
+      "Nick C. Ellis"
+    ],
+    "year": 2002,
+    "journal": "Studies in Second Language Acquisition",
+    "doi_or_url": "https://doi.org/10.1017/s0272263102002024",
+    "citation_count": 2164,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2962727772",
+    "title": "Automatic differentiation in machine learning: a survey",
+    "authors": [
+      "At\u0131l\u0131m G\u00fcne\u015f Baydin",
+      "Barak A. Pearlmutter",
+      "Alexey Radul",
+      "Jeffrey Mark Siskind"
+    ],
+    "year": 2015,
+    "journal": "Maynooth University ePrints and eTheses Archive (Maynooth University)",
+    "doi_or_url": "https://openalex.org/W2962727772",
+    "citation_count": 2096,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1659833910",
+    "title": "Semantic Similarity in a Taxonomy: An Information-Based Measure and its Application to Problems of Ambiguity in Natural Language",
+    "authors": [
+      "Philip Resnik"
+    ],
+    "year": 1999,
+    "journal": "Journal of Artificial Intelligence Research",
+    "doi_or_url": "https://doi.org/10.1613/jair.514",
+    "citation_count": 2085,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2167796542",
+    "title": "Using Bayes to get the most out of non-significant results",
+    "authors": [
+      "Zolt\u00e1n Dienes"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2014.00781",
+    "citation_count": 2072,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2958089299",
+    "title": "A Survey on Explainable Artificial Intelligence (XAI): Toward Medical XAI",
+    "authors": [
+      "Erico Tjoa",
+      "Cuntai Guan"
+    ],
+    "year": 2020,
+    "journal": "IEEE Transactions on Neural Networks and Learning Systems",
+    "doi_or_url": "https://doi.org/10.1109/tnnls.2020.3027314",
+    "citation_count": 2049,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4251446432",
+    "title": "Field Experiments",
+    "authors": [
+      "Glenn W. Harrison",
+      "John A. List"
+    ],
+    "year": 2004,
+    "journal": "Journal of Economic Literature",
+    "doi_or_url": "https://doi.org/10.1257/0022051043004577",
+    "citation_count": 2042,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2963206148",
+    "title": "A Diversity-Promoting Objective Function for Neural Conversation Models",
+    "authors": [
+      "Jiwei Li",
+      "Michel Galley",
+      "Chris Brockett",
+      "Jianfeng Gao",
+      "Bill Dolan"
+    ],
+    "year": 2016,
+    "journal": "Unknown",
+    "doi_or_url": "https://doi.org/10.18653/v1/n16-1014",
+    "citation_count": 2006,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2035726644",
+    "title": "The University of South Florida free association, rhyme, and word fragment norms",
+    "authors": [
+      "Douglas L. Nelson",
+      "Cathy L. McEvoy",
+      "Thomas A. Schreiber"
+    ],
+    "year": 2004,
+    "journal": "Behavior Research Methods, Instruments, & Computers",
+    "doi_or_url": "https://doi.org/10.3758/bf03195588",
+    "citation_count": 1964,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2016444985",
+    "title": "Analysis of fMRI data by blind separation into independent spatial components",
+    "authors": [
+      "Martin J. McKeown",
+      "Scott Makeig",
+      "Greg Brown",
+      "Tzyy\u2010Ping Jung",
+      "Sandra S. Kindermann",
+      "Anthony J. Bell",
+      "Terrence J. Sejnowski"
+    ],
+    "year": 1998,
+    "journal": "Human Brain Mapping",
+    "doi_or_url": "https://doi.org/10.1002/(sici)1097-0193(1998)6:3<160::aid-hbm5>3.0.co;2-1",
+    "citation_count": 1917,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2125976408",
+    "title": "\u201cEconomic man\u201d in cross-cultural perspective: Behavioral experiments in 15 small-scale societies",
+    "authors": [
+      "Joseph Henrich",
+      "Robert Boyd",
+      "Samuel Bowles",
+      "Colin F. Camerer",
+      "Ernst Fehr",
+      "Herbert Gintis",
+      "Richard McElreath",
+      "Michael Alvard",
+      "Abigail Barr",
+      "Jean Ensminger",
+      "Natalie Henrich",
+      "Kim Hill"
+    ],
+    "year": 2005,
+    "journal": "Behavioral and Brain Sciences",
+    "doi_or_url": "https://doi.org/10.1017/s0140525x05000142",
+    "citation_count": 1914,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2144707045",
+    "title": "Criteria for the diagnosis of corticobasal degeneration",
+    "authors": [
+      "Melissa J. Armstrong",
+      "Irene Litvan",
+      "Anthony E. Lang",
+      "Thomas H. Bak",
+      "Kailash P. Bhatia",
+      "Barbara Borroni",
+      "Adam L. Boxer",
+      "Dennis W. Dickson",
+      "Murray Grossman",
+      "Mark Hallett",
+      "Keith A. Josephs",
+      "Andrew Kertesz"
+    ],
+    "year": 2013,
+    "journal": "Neurology",
+    "doi_or_url": "https://doi.org/10.1212/wnl.0b013e31827f0fd1",
+    "citation_count": 1866,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2964236337",
+    "title": "Deep learning for sentiment analysis: A survey",
+    "authors": [
+      "Lei Zhang",
+      "Shuai Wang",
+      "Bing Liu"
+    ],
+    "year": 2018,
+    "journal": "Wiley Interdisciplinary Reviews Data Mining and Knowledge Discovery",
+    "doi_or_url": "https://doi.org/10.1002/widm.1253",
+    "citation_count": 1826,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2942231644",
+    "title": "Review of Deep Learning Algorithms and Architectures",
+    "authors": [
+      "Ajay Shrestha",
+      "Ausif Mahmood"
+    ],
+    "year": 2019,
+    "journal": "IEEE Access",
+    "doi_or_url": "https://doi.org/10.1109/access.2019.2912200",
+    "citation_count": 1804,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2913144876",
+    "title": "Cognitive Architecture and Instructional Design: 20\u00a0Years Later",
+    "authors": [
+      "John Sweller",
+      "Jeroen J. G. van Merri\u00ebnboer",
+      "Fred Paas"
+    ],
+    "year": 2019,
+    "journal": "Educational Psychology Review",
+    "doi_or_url": "https://doi.org/10.1007/s10648-019-09465-5",
+    "citation_count": 1789,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2958285686",
+    "title": "Survey of intrusion detection systems: techniques, datasets and challenges",
+    "authors": [
+      "Ansam Khraisat",
+      "Iqbal Gondal",
+      "Peter Vamplew",
+      "Joarder Kamruzzaman"
+    ],
+    "year": 2019,
+    "journal": "Cybersecurity",
+    "doi_or_url": "https://doi.org/10.1186/s42400-019-0038-7",
+    "citation_count": 1763,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2562199918",
+    "title": "Enhancing Our Lives with Immersive Virtual Reality",
+    "authors": [
+      "Mel Slater",
+      "Mar\u00eda V. S\u00e1nchez-Vives"
+    ],
+    "year": 2016,
+    "journal": "Frontiers in Robotics and AI",
+    "doi_or_url": "https://doi.org/10.3389/frobt.2016.00074",
+    "citation_count": 1734,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2803193013",
+    "title": "The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS): A dynamic, multimodal set of facial and vocal expressions in North American English",
+    "authors": [
+      "Steven R. Livingstone",
+      "Frank Russo"
+    ],
+    "year": 2018,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0196391",
+    "citation_count": 1724,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2158515176",
+    "title": "Methods and metrics for cold-start recommendations",
+    "authors": [
+      "Andrew I. Schein",
+      "Alexandrin Popescul",
+      "Lyle Ungar",
+      "David M. Pennock"
+    ],
+    "year": 2002,
+    "journal": "Unknown",
+    "doi_or_url": "https://doi.org/10.1145/564376.564421",
+    "citation_count": 1721,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4206484811",
+    "title": "A Metaverse: Taxonomy, Components, Applications, and Open Challenges",
+    "authors": [
+      "Sangmin Park",
+      "Young\u2010Gab Kim"
+    ],
+    "year": 2022,
+    "journal": "IEEE Access",
+    "doi_or_url": "https://doi.org/10.1109/access.2021.3140175",
+    "citation_count": 1712,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2118932991",
+    "title": "Working-memory capacity and the control of attention: The contributions of goal neglect, response competition, and task set to Stroop interference.",
+    "authors": [
+      "Michael J. Kane",
+      "Randall W. Engle"
+    ],
+    "year": 2003,
+    "journal": "Journal of Experimental Psychology General",
+    "doi_or_url": "https://doi.org/10.1037/0096-3445.132.1.47",
+    "citation_count": 1710,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2048613949",
+    "title": "The Generality of Working Memory Capacity: A Latent-Variable Approach to Verbal and Visuospatial Memory Span and Reasoning.",
+    "authors": [
+      "Michael J. Kane",
+      "David Z. Hambrick",
+      "Stephen W. Tuholski",
+      "Oliver Wilhelm",
+      "Tabitha W. Payne",
+      "Randall W. Engle"
+    ],
+    "year": 2004,
+    "journal": "Journal of Experimental Psychology General",
+    "doi_or_url": "https://doi.org/10.1037/0096-3445.133.2.189",
+    "citation_count": 1682,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2747680751",
+    "title": "Natural language processing: state of the art, current trends and challenges",
+    "authors": [
+      "Diksha Khurana",
+      "Aditya Koli",
+      "Kiran Khatter",
+      "Sukhdev Singh"
+    ],
+    "year": 2022,
+    "journal": "Multimedia Tools and Applications",
+    "doi_or_url": "https://doi.org/10.1007/s11042-022-13428-4",
+    "citation_count": 1676,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3176923149",
+    "title": "Text Data Augmentation for Deep Learning",
+    "authors": [
+      "Connor Shorten",
+      "Taghi M. Khoshgoftaar",
+      "Borko Furht"
+    ],
+    "year": 2021,
+    "journal": "Journal Of Big Data",
+    "doi_or_url": "https://doi.org/10.1186/s40537-021-00492-0",
+    "citation_count": 1655,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3003667836",
+    "title": "Digital Twin: Values, Challenges and Enablers From a Modeling Perspective",
+    "authors": [
+      "Adil Rasheed",
+      "Omer San",
+      "Trond Kvamsdal"
+    ],
+    "year": 2020,
+    "journal": "IEEE Access",
+    "doi_or_url": "https://doi.org/10.1109/access.2020.2970143",
+    "citation_count": 1622,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1984588653",
+    "title": "Maturational Constraints on Language Learning",
+    "authors": [
+      "Elissa L. Newport"
+    ],
+    "year": 1990,
+    "journal": "Cognitive Science",
+    "doi_or_url": "https://doi.org/10.1207/s15516709cog1401_2",
+    "citation_count": 1620,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1988374166",
+    "title": "Software protection and simulation on oblivious RAMs",
+    "authors": [
+      "Oded Goldreich",
+      "Rafail Ostrovsky"
+    ],
+    "year": 1996,
+    "journal": "Journal of the ACM",
+    "doi_or_url": "https://doi.org/10.1145/233551.233553",
+    "citation_count": 1598,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2005105933",
+    "title": "The Role of Alpha-Band Brain Oscillations as a Sensory Suppression Mechanism during Selective Attention",
+    "authors": [
+      "John J. Foxe",
+      "A. C. Snyder"
+    ],
+    "year": 2011,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2011.00154",
+    "citation_count": 1578,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2159549823",
+    "title": "Functional Brain Networks Develop from a \u201cLocal to Distributed\u201d Organization",
+    "authors": [
+      "Damien A. Fair",
+      "Alexander L. Cohen",
+      "Jonathan D. Power",
+      "Nico U.F. Dosenbach",
+      "Jessica A. Church",
+      "Francis M. Miezin",
+      "Bradley L. Schlaggar",
+      "Steven E. Petersen"
+    ],
+    "year": 2009,
+    "journal": "PLoS Computational Biology",
+    "doi_or_url": "https://doi.org/10.1371/journal.pcbi.1000381",
+    "citation_count": 1550,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2152941631",
+    "title": "An integrative review of sensory marketing: Engaging the senses to affect perception, judgment and behavior",
+    "authors": [
+      "Aradhna Krishna"
+    ],
+    "year": 2011,
+    "journal": "Journal of Consumer Psychology",
+    "doi_or_url": "https://doi.org/10.1016/j.jcps.2011.08.003",
+    "citation_count": 1499,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2155063192",
+    "title": "Gaze Perception Triggers Reflexive Visuospatial Orienting",
+    "authors": [
+      "Jon Driver",
+      "Greg Davis",
+      "Paola Ricciardelli",
+      "Polly Kidd",
+      "Emma Maxwell",
+      "Simon Baron\u2010Cohen"
+    ],
+    "year": 1999,
+    "journal": "Visual Cognition",
+    "doi_or_url": "https://doi.org/10.1080/135062899394920",
+    "citation_count": 1443,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2114060717",
+    "title": "Challenges of Big Data analysis",
+    "authors": [
+      "Jianqing Fan",
+      "Fang Han",
+      "Han Liu"
+    ],
+    "year": 2014,
+    "journal": "National Science Review",
+    "doi_or_url": "https://doi.org/10.1093/nsr/nwt032",
+    "citation_count": 1434,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2104127342",
+    "title": "Human Brain Language Areas Identified by Functional Magnetic Resonance Imaging",
+    "authors": [
+      "Jeffrey R. Binder",
+      "Julie A. Frost",
+      "Thomas A. Hammeke",
+      "Robert W. Cox",
+      "Stephen M. Rao",
+      "Thomas Prieto"
+    ],
+    "year": 1997,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.17-01-00353.1997",
+    "citation_count": 1420,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2127041292",
+    "title": "THE ROBUSTNESS OF CRITICAL PERIOD EFFECTS IN SECOND LANGUAGEACQUISITION",
+    "authors": [
+      "Robert DeKeyser"
+    ],
+    "year": 2000,
+    "journal": "Studies in Second Language Acquisition",
+    "doi_or_url": "https://doi.org/10.1017/s0272263100004022",
+    "citation_count": 1419,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2591654989",
+    "title": "Culture and Institutions",
+    "authors": [
+      "Alberto Alesina",
+      "Paola Giuliano"
+    ],
+    "year": 2015,
+    "journal": "Journal of Economic Literature",
+    "doi_or_url": "https://doi.org/10.1257/jel.53.4.898",
+    "citation_count": 1415,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2136930489",
+    "title": "Evaluating WordNet-based Measures of Lexical Semantic Relatedness",
+    "authors": [
+      "Alexander Budanitsky",
+      "Graeme Hirst"
+    ],
+    "year": 2006,
+    "journal": "Computational Linguistics",
+    "doi_or_url": "https://doi.org/10.1162/coli.2006.32.1.13",
+    "citation_count": 1414,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2123786976",
+    "title": "The emulation theory of representation: Motor control, imagery, and perception",
+    "authors": [
+      "Rick Grush"
+    ],
+    "year": 2004,
+    "journal": "Behavioral and Brain Sciences",
+    "doi_or_url": "https://doi.org/10.1017/s0140525x04000093",
+    "citation_count": 1376,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2251803266",
+    "title": "Don't count, predict! A systematic comparison of context-counting vs. context-predicting semantic vectors",
+    "authors": [
+      "Marco Baroni",
+      "Georgiana Dinu",
+      "Germ\u00e1n Kruszewski"
+    ],
+    "year": 2014,
+    "journal": "Unknown",
+    "doi_or_url": "https://doi.org/10.3115/v1/p14-1023",
+    "citation_count": 1373,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4210827551",
+    "title": "A survey on sentiment analysis methods, applications, and challenges",
+    "authors": [
+      "Mayur Wankhade",
+      "Annavarapu Chandra Sekhara Rao",
+      "Chaitanya Kulkarni"
+    ],
+    "year": 2022,
+    "journal": "Artificial Intelligence Review",
+    "doi_or_url": "https://doi.org/10.1007/s10462-022-10144-1",
+    "citation_count": 1360,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2550649555",
+    "title": "A Handful of Heuristics and Some Propositions for Understanding Resilience in Social-Ecological Systems",
+    "authors": [
+      "Brian Walker",
+      "Lance Gunderson",
+      "Ann P. Kinzig",
+      "Carl Folke",
+      "Steve Carpenter",
+      "Lisen Schultz"
+    ],
+    "year": 2006,
+    "journal": "Ecology and Society",
+    "doi_or_url": "https://doi.org/10.5751/es-01530-110113",
+    "citation_count": 1346,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1615991656",
+    "title": "Improving Distributional Similarity with Lessons Learned from Word Embeddings",
+    "authors": [
+      "Omer Levy",
+      "Yoav Goldberg",
+      "Ido Dagan"
+    ],
+    "year": 2015,
+    "journal": "Transactions of the Association for Computational Linguistics",
+    "doi_or_url": "https://doi.org/10.1162/tacl_a_00134",
+    "citation_count": 1335,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2128498260",
+    "title": "Models of ecological rationality: The recognition heuristic.",
+    "authors": [
+      "Daniel G. Goldstein",
+      "Gerd Gigerenzer"
+    ],
+    "year": 2002,
+    "journal": "Psychological Review",
+    "doi_or_url": "https://doi.org/10.1037/0033-295x.109.1.75",
+    "citation_count": 1334,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2060629467",
+    "title": "Patterns of Brain Activation in People at Risk for Alzheimer's Disease",
+    "authors": [
+      "Susan Y. Bookheimer",
+      "Magdalena H. Strojwas",
+      "Mark S. Cohen",
+      "Ann M. Saunders",
+      "Margaret A. Pericak\u2010Vance",
+      "John C. Mazziotta",
+      "Gary W. Small"
+    ],
+    "year": 2000,
+    "journal": "New England Journal of Medicine",
+    "doi_or_url": "https://doi.org/10.1056/nejm200008173430701",
+    "citation_count": 1326,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1790954942",
+    "title": "Concept Decompositions for Large Sparse Text Data Using Clustering",
+    "authors": [
+      "Inderjit S. Dhillon",
+      "Dharmendra S. Modha"
+    ],
+    "year": 2001,
+    "journal": "Machine Learning",
+    "doi_or_url": "https://doi.org/10.1023/a:1007612920971",
+    "citation_count": 1293,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4296295377",
+    "title": "Cognition assessment using the NIH Toolbox",
+    "authors": [
+      "Sandra We\u0131ntraub",
+      "Sureyya Dikmen",
+      "Robert K. Heaton",
+      "David S. Tulsky",
+      "Philip David Zelazo",
+      "Patricia J. Bauer",
+      "Noelle E. Carlozzi",
+      "Jerry Slotkin",
+      "David L. Blitz",
+      "Kathleen Wallner\u2010Allen",
+      "Nathan A. Fox",
+      "Jennifer L. Beaumont"
+    ],
+    "year": 2013,
+    "journal": "Neurology",
+    "doi_or_url": "https://doi.org/10.1212/wnl.0b013e3182872ded",
+    "citation_count": 1285,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2117031222",
+    "title": "Introducing LexTALE: A quick and valid Lexical Test for Advanced Learners of English",
+    "authors": [
+      "Kristin Lemh\u00f6fer",
+      "Mirjam Broersma"
+    ],
+    "year": 2011,
+    "journal": "Behavior Research Methods",
+    "doi_or_url": "https://doi.org/10.3758/s13428-011-0146-0",
+    "citation_count": 1284,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4387835442",
+    "title": "Generative Agents: Interactive Simulacra of Human Behavior",
+    "authors": [
+      "Joon Sung Park",
+      "Joseph O\u2019Brien",
+      "Carrie J. Cai",
+      "Meredith Ringel Morris",
+      "Percy Liang",
+      "Michael S. Bernstein"
+    ],
+    "year": 2023,
+    "journal": "Unknown",
+    "doi_or_url": "https://doi.org/10.1145/3586183.3606763",
+    "citation_count": 1283,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2014636870",
+    "title": "Validity of the MoCA and MMSE in the detection of MCI and dementia in Parkinson disease",
+    "authors": [
+      "Staci Hoops",
+      "Sarra Nazem",
+      "Andrew Siderowf",
+      "John E. Duda",
+      "Sharon X. Xie",
+      "M. B. Stern",
+      "Daniel Weintraub"
+    ],
+    "year": 2009,
+    "journal": "Neurology",
+    "doi_or_url": "https://doi.org/10.1212/wnl.0b013e3181c34b47",
+    "citation_count": 1268,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2109592461",
+    "title": "Cultural Constraints on Grammar and Cognition in Pirah\u00e3",
+    "authors": [
+      "Daniel L. Everett"
+    ],
+    "year": 2005,
+    "journal": "Current Anthropology",
+    "doi_or_url": "https://doi.org/10.1086/431525",
+    "citation_count": 1259,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2079038792",
+    "title": "The syntactic positive shift (sps) as an erp measure of syntactic processing",
+    "authors": [
+      "Peter Hagoort",
+      "Colin Brown",
+      "Jolanda Groothusen"
+    ],
+    "year": 1993,
+    "journal": "Language and Cognitive Processes",
+    "doi_or_url": "https://doi.org/10.1080/01690969308407585",
+    "citation_count": 1257,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1792494105",
+    "title": "A Behavioral Approach to Law and Economics",
+    "authors": [
+      "Christine Jolls",
+      "Cass R. Sunstein",
+      "Richard H. Thaler"
+    ],
+    "year": 1998,
+    "journal": "Stanford Law Review",
+    "doi_or_url": "https://doi.org/10.2307/1229304",
+    "citation_count": 1234,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1957358593",
+    "title": "A Survey on Wireless Security: Technical Challenges, Recent Advances, and Future Trends",
+    "authors": [
+      "Yulong Zou",
+      "Jia Zhu",
+      "Xianbin Wang",
+      "Lajos Hanzo"
+    ],
+    "year": 2016,
+    "journal": "Proceedings of the IEEE",
+    "doi_or_url": "https://doi.org/10.1109/jproc.2016.2558521",
+    "citation_count": 1212,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4206236567",
+    "title": "The psychological drivers of misinformation belief and its resistance to correction",
+    "authors": [
+      "Ullrich K. H. Ecker",
+      "Stephan Lewandowsky",
+      "John Cook",
+      "Philipp Schmid",
+      "Lisa K. Fazio",
+      "Nadia M. Brashier",
+      "Panayiota Kendeou",
+      "Emily K. Vraga",
+      "Michelle A. Amazeen"
+    ],
+    "year": 2022,
+    "journal": "Nature Reviews Psychology",
+    "doi_or_url": "https://doi.org/10.1038/s44159-021-00006-y",
+    "citation_count": 1209,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2034592824",
+    "title": "Evaluation of unsupervised semantic mapping of natural language with Leximancer concept mapping",
+    "authors": [
+      "Andrew E. Smith",
+      "Michael S. Humphreys"
+    ],
+    "year": 2006,
+    "journal": "Behavior Research Methods",
+    "doi_or_url": "https://doi.org/10.3758/bf03192778",
+    "citation_count": 1205,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2129245434",
+    "title": "Cognition does not affect perception: Evaluating the evidence for \u201ctop-down\u201d effects",
+    "authors": [
+      "Chaz Firestone",
+      "Brian J. Scholl"
+    ],
+    "year": 2015,
+    "journal": "Behavioral and Brain Sciences",
+    "doi_or_url": "https://doi.org/10.1017/s0140525x15000965",
+    "citation_count": 1191,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1854884267",
+    "title": "SimLex-999: Evaluating Semantic Models With (Genuine) Similarity Estimation",
+    "authors": [
+      "Felix Hill",
+      "Roi Reichart",
+      "Anna Korhonen"
+    ],
+    "year": 2015,
+    "journal": "Computational Linguistics",
+    "doi_or_url": "https://doi.org/10.1162/coli_a_00237",
+    "citation_count": 1187,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2576683119",
+    "title": "Machine learning on big data: Opportunities and challenges",
+    "authors": [
+      "Lina Zhou",
+      "Shimei Pan",
+      "Jianwu Wang",
+      "Athanasios V. Vasilakos"
+    ],
+    "year": 2017,
+    "journal": "Neurocomputing",
+    "doi_or_url": "https://doi.org/10.1016/j.neucom.2017.01.026",
+    "citation_count": 1182,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2030830933",
+    "title": "Characteristics of dissociable human learning systems",
+    "authors": [
+      "David R. Shanks",
+      "Mark John"
+    ],
+    "year": 1994,
+    "journal": "Behavioral and Brain Sciences",
+    "doi_or_url": "https://doi.org/10.1017/s0140525x00035032",
+    "citation_count": 1175,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2077817595",
+    "title": "Motor sequence learning: a study with positron emission tomography",
+    "authors": [
+      "IH Jenkins",
+      "David J. Brooks",
+      "PD Nixon",
+      "R. S. J. Frackowiak",
+      "RE Passingham"
+    ],
+    "year": 1994,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.14-06-03775.1994",
+    "citation_count": 1159,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2005355670",
+    "title": "Effects of Aerobic Exercise on Mild Cognitive Impairment",
+    "authors": [
+      "Laura D. Baker",
+      "Laura L. Frank",
+      "Karen E. Foster\u2010Schubert",
+      "Pattie S. Green",
+      "Charles W. Wilkinson",
+      "Anne McTiernan",
+      "Stephen R. Plymate",
+      "Mark A. Fishel",
+      "G. Stennis Watson",
+      "Brenna Cholerton",
+      "Glen E. Duncan",
+      "Pankaj Mehta"
+    ],
+    "year": 2010,
+    "journal": "Archives of Neurology",
+    "doi_or_url": "https://doi.org/10.1001/archneurol.2009.307",
+    "citation_count": 1154,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2161793142",
+    "title": "Text Mining Infrastructure in<i>R</i>",
+    "authors": [
+      "Ingo Feinerer",
+      "Kurt Hornik",
+      "David Meyer"
+    ],
+    "year": 2008,
+    "journal": "Journal of Statistical Software",
+    "doi_or_url": "https://doi.org/10.18637/jss.v025.i05",
+    "citation_count": 1137,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1598741880",
+    "title": "Student engagement and achievement in American secondary schools",
+    "authors": [
+      "<vcard>BEGIN:vCard\\VERSION:3.0\\FN:B. Bradford Brown\\ORG:University of Wisconsin-Madison\\ADR;TYPE=WORK,POSTAL,PARCEL:;;1000 Bascom Mall;Suite 377;Madison;WI;53706;US\\END:vCard</vcard>",
+      "<vcard>BEGIN:vCard\\VERSION:3.0\\FN:Adam Gamoran\\ORG:University of Wisconsin-Madison\\ADR;TYPE=WORK,POSTAL,PARCEL:;;1025 W. Johnson St.;;Madison;WI;53706;US\\END:vCard</vcard>",
+      "<vcard>BEGIN:vCard\\VERSION:3.0\\FN:Susie D. Lamborn\\ORG:University of Wisconsin-Madison\\ADR;TYPE=WORK,POSTAL,PARCEL:;;1000 Bascom Mall;Suite 377;Madison;WI;53706;US\\END:vCard</vcard>",
+      "<vcard>BEGIN:vCard\\VERSION:3.0\\FN:Karen Seashore-Louis\\ORG:University of Minnesota\\ADR;TYPE=WORK,POSTAL,PARCEL:;;178 Pillsbury Dr. SE;330 Burton Hall;Minneapolis;MN;55455;US\\END:vCard</vcard>",
+      "<vcard>BEGIN:vCard\\VERSION:3.0\\FN:Nina S. Mounts\\ORG:Northern Illinois University\\ADR;TYPE=WORK,POSTAL,PARCEL:;;1425 W. Lincoln Highway;;Dekalb;IL;60115;US\\END:vCard</vcard>",
+      "<vcard>BEGIN:vCard\\VERSION:3.0\\FN:Martin Nystrand\\ORG:University of Wisconsin-Madison\\ADR;TYPE=WORK,POSTAL,PARCEL:;;600 N. Park St.;;Madison;WI;53706;US\\END:vCard</vcard>",
+      "<vcard>BEGIN:vCard\\VERSION:3.0\\FN:BetsAnn Smith\\ORG:University of Minnesota\\ADR;TYPE=WORK,POSTAL,PARCEL:;;178 Pillsbury Dr. SE;;Madison;WI;55455;US\\END:vCard</vcard>",
+      "<vcard>BEGIN:vCard\\VERSION:3.0\\FN:Gregory A. Smith\\ORG:University of Wisconsin-Madison\\ADR;TYPE=WORK,POSTAL,PARCEL:;;1000 Bascom Mall;Suite 377;Madison;WI;53706;US\\END:vCard</vcard>",
+      "<vcard>BEGIN:vCard\\VERSION:3.0\\FN:Laurence Steinberg\\ORG:Temple University\\ADR;TYPE=WORK,POSTAL,PARCEL:;;Weiss Hall, 6th Floor;1701 N. 13th St.;Philadelphia;PA;19122;US\\END:vCard</vcard>",
+      "<vcard>BEGIN:vCard\\VERSION:3.0\\FN:Gary G. Wehlage\\ORG:University of Wisconsin-Madison\\ADR;TYPE=WORK,POSTAL,PARCEL:;;1000 Bascom Mall;Suite 377;Madison;WI;53706;US\\END:vCard</vcard>"
+    ],
+    "year": 1993,
+    "journal": "Choice Reviews Online",
+    "doi_or_url": "https://doi.org/10.5860/choice.30-3945",
+    "citation_count": 1118,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1955927543",
+    "title": "Analyzing reaction times",
+    "authors": [
+      "R. Harald Baayen",
+      "Petar Milin"
+    ],
+    "year": 2010,
+    "journal": "International journal of psychological research",
+    "doi_or_url": "https://doi.org/10.21500/20112084.807",
+    "citation_count": 1116,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2128970689",
+    "title": "Dialogue Act Modeling for Automatic Tagging and Recognition of Conversational Speech",
+    "authors": [
+      "Andreas Stolcke",
+      "Klaus Ries",
+      "Noah Coccaro",
+      "Elizabeth Shriberg",
+      "Rebecca Bates",
+      "Daniel Jurafsky",
+      "Paul Taylor",
+      "Rachel W. Martin",
+      "Carol Van Ess-Dykema",
+      "Marie Meteer"
+    ],
+    "year": 2000,
+    "journal": "Computational Linguistics",
+    "doi_or_url": "https://doi.org/10.1162/089120100561737",
+    "citation_count": 1107,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2090017477",
+    "title": "Distinct Cerebellar Contributions to Intrinsic Connectivity Networks",
+    "authors": [
+      "Christophe Habas",
+      "Nirav Kamdar",
+      "Daniel H Nguyen",
+      "Katherine E. Prater",
+      "Christian F. Beckmann",
+      "Vinod Menon",
+      "Michael D. Greicius"
+    ],
+    "year": 2009,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.1868-09.2009",
+    "citation_count": 1103,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2078894097",
+    "title": "Semantic feature production norms for a large set of living and nonliving things",
+    "authors": [
+      "Ken McRae",
+      "George S. Cree",
+      "Mark S. Seidenberg",
+      "Chris McNorgan"
+    ],
+    "year": 2005,
+    "journal": "Behavior Research Methods",
+    "doi_or_url": "https://doi.org/10.3758/bf03192726",
+    "citation_count": 1094,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2157954477",
+    "title": "Toward Scalable Systems for Big Data Analytics: A Technology Tutorial",
+    "authors": [
+      "Han Hu",
+      "Yonggang Wen",
+      "Tat\u2010Seng Chua",
+      "Xuelong Li"
+    ],
+    "year": 2014,
+    "journal": "IEEE Access",
+    "doi_or_url": "https://doi.org/10.1109/access.2014.2332453",
+    "citation_count": 1091,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2034658764",
+    "title": "Maturational Constraints on Language Development",
+    "authors": [
+      "Michael H. Long"
+    ],
+    "year": 1990,
+    "journal": "Studies in Second Language Acquisition",
+    "doi_or_url": "https://doi.org/10.1017/s0272263100009165",
+    "citation_count": 1073,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4389121120",
+    "title": "Common Method Bias: It's Bad, It's Complex, It's Widespread, and It's Not Easy to Fix",
+    "authors": [
+      "Philip M. Podsakoff",
+      "Nathan P. Podsakoff",
+      "Larry J. Williams",
+      "Chengquan Huang",
+      "Junhui Yang"
+    ],
+    "year": 2023,
+    "journal": "Annual Review of Organizational Psychology and Organizational Behavior",
+    "doi_or_url": "https://doi.org/10.1146/annurev-orgpsych-110721-040030",
+    "citation_count": 1073,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2164368909",
+    "title": "Emotion recognition based on physiological changes in music listening",
+    "authors": [
+      "Jonghwa Kim",
+      "Elisabeth Andr\u00e9"
+    ],
+    "year": 2008,
+    "journal": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "doi_or_url": "https://doi.org/10.1109/tpami.2008.26",
+    "citation_count": 1063,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2284029970",
+    "title": "Visual Place Recognition: A Survey",
+    "authors": [
+      "Stephanie Lowry",
+      "Niko S\u00fcnderhauf",
+      "Paul Newman",
+      "John J. Leonard",
+      "David Cox",
+      "Peter Corke",
+      "Michael Milford"
+    ],
+    "year": 2015,
+    "journal": "IEEE Transactions on Robotics",
+    "doi_or_url": "https://doi.org/10.1109/tro.2015.2496823",
+    "citation_count": 1063,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2267186426",
+    "title": "Long Short-Term Memory-Networks for Machine Reading",
+    "authors": [
+      "Jianpeng Cheng",
+      "Li Dong",
+      "Mirella Lapata"
+    ],
+    "year": 2016,
+    "journal": "Unknown",
+    "doi_or_url": "https://doi.org/10.18653/v1/d16-1053",
+    "citation_count": 1059,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1654467375",
+    "title": "Dissociation Of Working Memory from Decision Making within the Human Prefrontal Cortex",
+    "authors": [
+      "Antoine Bechara",
+      "Hanna Dam\u00e1sio",
+      "Daniel Tranel",
+      "Steven W. Anderson"
+    ],
+    "year": 1998,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.18-01-00428.1998",
+    "citation_count": 1055,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  }
+]
