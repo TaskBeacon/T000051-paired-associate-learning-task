@@ -5,6 +5,7 @@ import pandas as pd
 from psychopy import core
 
 from psyflow import (
+    BlockUnit,
     StimBank,
     StimUnit,
     SubInfo,
@@ -175,19 +176,31 @@ def run(options):
                 test_keys="1, 2, 3, 4",
             )
 
-            for trial_spec in block_plan["trials"]:
-                trial_data = run_trial(
-                    win,
-                    kb,
-                    settings,
-                    condition=trial_spec,
-                    stim_bank=stim_bank,
-                    trigger_runtime=trigger_runtime,
+            block_unit = (
+                BlockUnit(
                     block_id=block_id,
                     block_idx=block_idx,
+                    settings=settings,
+                    window=win,
+                    keyboard=kb,
+                    n_trials=len(block_plan["trials"]),
                 )
-                block_trials.append(trial_data)
-                all_data.append(trial_data)
+                .add_condition(list(block_plan["trials"]))
+                .run_trial(
+                    lambda win_arg, kb_arg, settings_arg, condition_arg: run_trial(
+                        win_arg,
+                        kb_arg,
+                        settings_arg,
+                        condition=condition_arg,
+                        stim_bank=stim_bank,
+                        trigger_runtime=trigger_runtime,
+                        block_id=block_id,
+                        block_idx=block_idx,
+                    )
+                )
+            )
+            block_trials = block_unit.get_all_data()
+            all_data.extend(block_trials)
 
             summary = summarize_trials(block_trials)
             trigger_runtime.send(settings.triggers.get("block_end"))
